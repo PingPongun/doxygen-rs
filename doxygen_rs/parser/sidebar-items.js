@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["StringType","The enum used to represent values of a raw bindgen file"],["Value","The enum used to represent the distinct raw values of a comment"]],"fn":[["parse_bindgen","Generate a [`Vec`] of [`StringType`] from a given [`&str`], assuming it’s a raw bindgen file"],["parse_comment","Generate a [`Vec`] of [`Value`] from a given [`&str`]"]]};

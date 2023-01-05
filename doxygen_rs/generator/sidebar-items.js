@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["generate_rustdoc","Generate raw Rustdoc comments from a given [`crate::ast::ParsedDoxygen`]"]]};
